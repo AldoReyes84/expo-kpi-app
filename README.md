@@ -45,5 +45,20 @@ npx create-expo-app expo-kpi-app
 # Entrar al directorio
 cd expo-kpi-app
 
+expo-kpi-app/
+ ├── assets/          # Recursos estáticos
+ ├── components/      # Componentes reutilizables
+ ├── screens/         # Pantallas (Login, Dashboard, KPI Detail)
+ ├── navigation/      # Configuración de navegación
+ ├── App.js           # Punto de entrada
+ └── README.md        # Documentación
+
+
+
+
+
+
+
+
 # Iniciar servidor de desarrollo
 npm start
