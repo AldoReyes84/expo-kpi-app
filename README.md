@@ -53,12 +53,3 @@ expo-kpi-app/
  ├── App.js           # Punto de entrada
  └── README.md        # Documentación
 
-
-
-
-
-
-
-
-# Iniciar servidor de desarrollo
-npm start
